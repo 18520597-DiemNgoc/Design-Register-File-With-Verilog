@@ -1,0 +1,15 @@
+{F:/CE213/Register File/PreSyn/TestBench.v} {1 {vlog -work work {F:\CE213\Register File\PreSyn\TestBench.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module TestBench
+
+Top level modules:
+	TestBench
+
+} {} {}} {F:/CE213/Register File/PreSyn/RegisterFile.v} {1 {vlog -work work {F:\CE213\Register File\PreSyn\RegisterFile.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module RegisterFile
+
+Top level modules:
+	RegisterFile
+
+} {} {}}

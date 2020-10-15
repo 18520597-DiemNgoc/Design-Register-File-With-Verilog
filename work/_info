@@ -1,0 +1,45 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1
+vRegisterFile
+!i10b 1
+!s100 SlWNNRBU8]F23]3idBz521
+Inh>VH98SS;?V2E4BYQ>DZ2
+Z1 VFW>E7]Je0jSA6>2K]9_040
+Z2 dF:\CE213\Register File\PreSyn
+w1602649790
+Z3 8F:\CE213\Register File\PreSyn\RegisterFile.v
+Z4 FF:\CE213\Register File\PreSyn\RegisterFile.v
+L0 1
+Z5 OV;L;10.1d;51
+r1
+!s85 0
+31
+!s108 1602649798.027000
+!s107 F:\CE213\Register File\PreSyn\RegisterFile.v|
+Z6 !s90 -reportprogress|300|-work|work|F:\CE213\Register File\PreSyn\RegisterFile.v|
+!s101 -O0
+Z7 o-work work -O0
+Z8 n@register@file
+vTestBench
+Z9 !s100 mXZ?dSMM0;`A@72Tlc8KJ1
+Z10 I6mBD=^cn4mdTS@NcJASzc0
+Z11 VY<9CRgB6<HjC<f[0CRbmH1
+R2
+Z12 w1602649468
+Z13 8F:\CE213\Register File\PreSyn\TestBench.v
+Z14 FF:\CE213\Register File\PreSyn\TestBench.v
+L0 3
+R5
+r1
+31
+Z15 !s90 -reportprogress|300|-work|work|F:\CE213\Register File\PreSyn\TestBench.v|
+R7
+Z16 n@test@bench
+!i10b 1
+!s85 0
+Z17 !s108 1602649709.484000
+Z18 !s107 F:\CE213\Register File\PreSyn\TestBench.v|
+!s101 -O0
